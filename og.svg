@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1706 960" role="img" aria-labelledby="title desc">
+<title id="title">Studio Local — Scripts vidéo pour petites entreprises</title>
+<desc id="desc">Visuel éditorial beige avec le titre Studio Local et des cartes vidéo stylisées.</desc>
+<defs>
+  <filter id="paper"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" seed="8" result="n"/><feColorMatrix in="n" type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .055"/></feComponentTransfer></filter>
+  <style>
+    .serif{font-family:Georgia,'Times New Roman',serif;fill:#1c1c1a}.line{stroke:#292927;stroke-width:2;fill:none}.soft{stroke:#8b8175;stroke-width:2;fill:none}.tan{stroke:#a06f3a;stroke-width:2;fill:none}.muted{fill:#d9d2c6}.accent{fill:#a96f35}
+  </style>
+</defs>
+<rect width="1706" height="960" fill="#f4f0e8"/><rect width="1706" height="960" filter="url(#paper)" opacity=".7"/>
+<path d="M15 42H724M35 15V441M671 855H1691M1155 0V854M1672 388V881M1155 150V0" class="line" opacity=".8"/>
+<circle cx="1159" cy="295" r="146" class="tan" opacity=".9"/>
+<text x="90" y="374" class="serif" font-size="168" letter-spacing="-6">SCRIPT</text>
+<text x="89" y="563" class="serif" font-size="168" letter-spacing="-6">LOCAL</text>
+<path d="M120 602H451" stroke="#a06f3a" stroke-width="4"/>
+<text x="89" y="680" class="serif" font-size="57">Scripts vidéo pour petites entreprises</text>
+<g transform="translate(1109 130) rotate(-5 140 290)">
+  <rect x="120" y="70" width="250" height="490" rx="16" class="soft" opacity=".85"/>
+  <rect x="60" y="30" width="280" height="550" rx="16" class="soft" opacity=".95"/>
+  <rect x="0" y="0" width="280" height="590" rx="16" fill="#f4f0e8" stroke="#1f1f1d" stroke-width="3"/>
+  <circle cx="170" cy="145" r="31" fill="#e1dacd"/>
+  <path d="M0 420c60-55 113-54 171 0 36-41 72-47 109-28v188H0z" fill="#ded6c9"/>
+  <path d="M117 334c0-39 31-70 70-70s70 31 70 70-31 70-70 70-70-31-70-70z" class="accent" opacity=".9"/>
+  <path d="M178 303l47 31-47 31z" fill="#f7f3eb"/>
+  <g transform="translate(281 58)" opacity=".45">
+    <rect width="111" height="482" rx="12" fill="#f4f0e8" stroke="#393936" stroke-width="2"/>
+    <path d="M15 190h80M15 205h80M15 220h80" stroke="#c7bfb2" stroke-width="7"/>
+    <path d="M15 160c25-48 54-62 80-62v62z" fill="#ddd4c6"/>
+    <rect x="15" y="250" width="50" height="110" fill="#ded6c9"/>
+  </g>
+  <g transform="translate(392 105)" opacity=".38">
+    <rect width="104" height="390" rx="12" fill="#f4f0e8" stroke="#393936" stroke-width="2"/>
+    <path d="M0 290c22-28 45-38 68-31 18 5 29 17 36 27v104H0z" fill="#d8d0c4"/>
+    <path d="M65 135c20 40 16 78-4 108-16-34-15-70 4-108z" fill="#d1c8bb"/>
+  </g>
+</g>
+</svg>
