@@ -6,6 +6,8 @@ document.addEventListener('DOMContentLoaded',()=>{
 
   form.addEventListener('submit',async e=>{
     e.preventDefault();
+    e.stopImmediatePropagation();
+
     if(!form.checkValidity()){
       form.reportValidity();
       return;
